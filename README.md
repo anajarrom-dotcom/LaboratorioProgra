@@ -1,3 +1,7 @@
+# Integrantes:
+ANTONY DIONICIO NAJARRO MARROQUIN   0905-25-11238
+DAVID ISAAC ESQUIVEL MIRANDA        0905-25-8728
+
 # 1.Identificacion de tareas repetitivas
 
 ## ¿Qué partes del código pueden convertirse en métodos?
